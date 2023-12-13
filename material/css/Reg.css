@@ -1,0 +1,87 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+header {
+    background-color: #F8F8F8;
+
+}
+header a{
+    color:black;
+    text-decoration:none;
+}
+.header_content {
+    padding-top:20px;
+    padding-bottom:20px;
+    display: flex;
+    justify-content: space-between;
+}
+header .logo img{
+    width:80%
+}
+.navigation li {
+    display: inline;
+    padding-right: 20px;
+}
+.registration {
+    font-weight: 600;
+}
+.Reg {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    color: black;
+}
+
+form {
+    background-color: #F8F8F8;
+    width: 600px;
+    
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-top: 30px;
+    border: 1px solid black;
+}
+
+input {
+    width: 250px;
+}
+
+.reg_A{
+    margin-top:40px;
+    text-align:left;
+}
+
+form a {
+    color: black;
+   
+}
+
+.Reg_button {
+    margin-top: 20px;
+    background-color: #E8971E;
+    color: black;
+    border: none;
+    width: 150px;
+    margin-bottom:30px;
+}
+
+.inputs {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+footer{
+    padding:30px;
+    background-color:#F8F8F8;
+}
+.foooter_item .im{
+    width:180px;
+}
+footer a{
+    color:black;
+}
+
+a:hover{
+    color:green;
+}
